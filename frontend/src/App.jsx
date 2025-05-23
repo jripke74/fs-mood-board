@@ -1,9 +1,12 @@
 import "./App.css";
+import { MoodBoard } from "./index.jsx";
 
 function App() {
-  return <>
-    
-  </>;
+  return (
+    <>
+      <MoodBoard />
+    </>
+  );
 }
 
 export default App;
